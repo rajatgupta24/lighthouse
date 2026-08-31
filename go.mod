@@ -13,14 +13,14 @@ require (
 	github.com/h2non/gock v1.2.0
 	github.com/hashicorp/go-multierror v1.1.1
 	github.com/hashicorp/golang-lru v1.0.2
-	github.com/jenkins-x/go-scm v1.15.37
+	github.com/jenkins-x/go-scm v1.15.38
 	github.com/mattn/go-zglob v0.0.6
 	github.com/onsi/ginkgo v1.16.5
 	github.com/onsi/gomega v1.42.0
 	github.com/pkg/errors v0.9.1
 	github.com/prometheus/client_golang v1.23.2
 	github.com/shurcooL/githubv4 v0.0.0-20260209031235-2402fdf4a9ed
-	github.com/sirupsen/logrus v1.9.4
+	github.com/sirupsen/logrus v1.10.2
 	github.com/stretchr/testify v1.12.1
 	github.com/tektoncd/pipeline v1.12.1
 	golang.org/x/oauth2 v0.36.0
